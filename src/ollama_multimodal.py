@@ -5,7 +5,7 @@ import io
 from typing import List, Dict, Any
 from PIL import Image
 import os
-from helper import OLLAMA_API_BASE
+from src.helper import OLLAMA_API_BASE
 
 
 # Set page configuration
