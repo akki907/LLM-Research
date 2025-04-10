@@ -1,0 +1,12 @@
+streamlit 
+requests
+watchdog
+langchain 
+langchain_community 
+chromadb 
+sentence-transformers 
+pypdf
+docx2txt 
+unstructured
+pandas
+matplotlib
