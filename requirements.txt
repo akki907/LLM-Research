@@ -10,3 +10,5 @@ docx2txt
 unstructured
 pandas
 matplotlib
+tornado>=6.5 # not directly required, pinned by Snyk to avoid a vulnerability
+transformers>=4.50.0 # not directly required, pinned by Snyk to avoid a vulnerability
